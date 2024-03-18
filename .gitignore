@@ -1,0 +1,5 @@
+/venv
+*.json
+/logs/
+/log.txt
+*.log
